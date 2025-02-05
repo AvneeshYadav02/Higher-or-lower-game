@@ -36,8 +36,3 @@ This is a simple Python game where the player guesses which celebrity has a high
    python game.py
    ```
 
-## Future Improvements
-- Implement a GUI version for better user experience.
-- Add more personalities to the dataset.
-- Introduce difficulty levels based on the difference in follower count.
-
